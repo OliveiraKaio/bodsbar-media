@@ -1,0 +1,102 @@
+[
+  {
+    "id": "w1-post-01",
+    "tipo": "Feed Estático",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-05T15:00:00-03:00",
+    "legenda": "Se a reunião interna é um exemplo de ordem e harmonia, o pós-sessão também deve ser.\n\nDentro do Templo, cada passo é calculated. Há respeito absoluto ao tempo, à ritualística e à harmonia coletiva. Tudo funciona com precisão milenar.\n\nMas ao cruzarmos a porta rumo ao Ágape, o cenário que muitos Mestres de Banquete e Tesoureiros enfrentam é o oposto:\n* Comandas de papel rasuradas acumulando poeira no bar.\n* Mensagens no WhatsApp cobrando comprovantes de Pix perdidos.\n* Conferência manual de valores madrugada adentro.\n\nA verdadeira harmonia da Loja não termina com o soar do malhete. Ela se estende à celebração e ao cuidado com os Irmãos que trabalham na retaguarda da administração.\n\nSimplificar o caixa do Ágape não é apenas sobre tecnologia; é sobre ordem, zelo e respeito ao tempo do Mestre de Banquete.\n\nCom o Bod’s Bar, o Ágape acaba e o caixa fecha em 10 minutos. Sem papéis, sem pendências, sem cobranças desconfortáveis.\n\nDeixe a burocracia de lado e foque no que realmente importa: a fraternidade.\n\n📥 Quer saber como levar essa organização para a secretaria e cozinha de sua Loja? Envie uma mensagem direta (DM) com a palavra HARMONIA e agende uma demonstração curta de 10 minutos.\n\n#GestaoMaconica #MestreDeBanquete #AgapeMaconico #TesourariaMaconica #BodsBar #OrganizacaoELegado #LojasMaconicas",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/feed_fixo/feed_05_06_ritual.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-post-02",
+    "tipo": "Feed Estático",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-08T08:00:00-03:00",
+    "legenda": "A paz de espírito de terminar a noite sem pendências financeiras.\n\nDepois que os trabalhos no Templo terminam, a confraternização deve ser um momento de pura comunhão, debates e risadas entre Irmãos.\n\nMas para quem está com o encargo de Mestre de Banquete ou Tesoureiro, a comemoração costumava ser acompanhada pelo fantasma da burocracia do pós-sessão:\n* Contar fichas no final da noite.\n* Conferir comprovantes de transferência.\n* Tentar organizar a comanda de cada mesa.\n\nO Bod’s Bar devolve ao administrador o direito de simplesmente ser um Irmão no Ágape.\n\nA tecnologia certa protege a harmonia e garante que o bar feche com a mesma ordem e rigor que rege toda a nossa tradição.\n\nO Ágape acabou. O caixa fechou.\n\nTriga essa tranquilidade para a sua Loja.\n\n🔗 Quer ver o sistema em funcionamento? Acesse o link da nossa Bio e agende uma conversa rápida de 10 minutos.\n\n#MestreDeBanquete #AgapeMaconico #BodsBar #GestaoMaconica #TesourariaMaconica #HarmoniaEOrdem #LojasMaconicas",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/feed_fixo/feed_08_06_paz_mestre.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-post-03",
+    "tipo": "Carrossel",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-10T08:00:00-03:00",
+    "legenda": "A ritualística e o zelo administrative andam lado a lado na Maçonaria. Quando o bar da Loja acumula perdas e desorganização, o próprio legado e os fundos da Loja são afetados.\n\nIdentificar esses três sintomas em sua Loja é o primeiro passo para trazer de volta a harmonia e a tranquilidade financeira:\n1. Comandas ilegíveis.\n2. Conciliação manual cansativa de Pix.\n3. Falta de clareza no estoque.\n\nO Bod's Bar foi criado especificamente para resolver esses problemas, devolvendo o tempo livre para os Irmãos celebrarem em paz.\n\n🔗 Simplifique a gestão da sua Loja hoje. Link de demonstração na Bio.\n\n#MaconariaBrasil #AgapeOrganizado #MestreDeBanquete #TesourariaLoja #BodsBar #GestaoPremium",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/carrossel/slide_1_capa.png",
+    "carousel_urls": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/carrossel/slide_1_capa.png, https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/carrossel/slide_2_sintoma1.png, https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/carrossel/slide_3_sintoma2.png, https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/carrossel/slide_4_sintoma3.png, https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/carrossel/slide_5_solucao.png"
+  },
+  {
+    "id": "w1-story-01",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-05T15:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_05_06_share.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-story-02",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-06T08:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_06_06_enquete.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-story-03",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-07T08:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_07_06_cta.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-story-04",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-08T08:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_08_06_share.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-story-05",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-09T08:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_09_06_frase.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-story-06",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-10T08:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_10_06_cta.png",
+    "carousel_urls": ""
+  },
+  {
+    "id": "w1-story-07",
+    "tipo": "Story",
+    "status": "Publicado",
+    "processado": "Sim",
+    "data_agendamento": "2026-06-11T08:00:00-03:00",
+    "legenda": "",
+    "media_url": "https://raw.githubusercontent.com/OliveiraKaio/bodsbar_makerting/main/approved/week-1/stories/story_11_06_dica.png",
+    "carousel_urls": ""
+  }
+]
